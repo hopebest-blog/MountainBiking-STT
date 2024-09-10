@@ -1,5 +1,5 @@
 ---
-title: "First Post"
+title: "Health Benefits of Mountain Biking"
 description: This description will show up in the meta tag, for SEO.
 author: "Author Name"
 categories: [ "Category 1", "Category 2" ]
