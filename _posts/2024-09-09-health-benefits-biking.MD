@@ -10,7 +10,6 @@ banner:
 
 ## section 1
 
-Jekyll also offers powerful support for code snippets:
 
 Beginner's Guide to Mountain Biking: From Trails to Techniques
 
