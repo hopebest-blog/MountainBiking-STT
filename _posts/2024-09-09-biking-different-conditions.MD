@@ -11,6 +11,7 @@ banner:
 ## section 1
 
 How to Ride in Different Weather Conditions: Sun, Rain, and Snow
+
 Riding in various weather conditions requires adaptation and preparation. Here are tips for riding in sun, rain, and snow:
 
 Sun:
