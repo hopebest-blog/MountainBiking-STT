@@ -2,13 +2,11 @@
 title: "How to ensure you are ecofriendly while you go mountain biking"
 description: This description will show up in the meta tag, for SEO.
 author: "Author Name"
-categories: [ "Category 1", "Category 2" ]
-tags: [ "Tag 1", "Tag 2" ]
+categories: []
+tags: []
 banner:
     image: "/assets/img/sky.jpg"
 ---
-
-## section 1
 
 Beginner's Guide to Mountain Biking: From Trails to Techniques
 
