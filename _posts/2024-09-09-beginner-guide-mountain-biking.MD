@@ -4,9 +4,10 @@ description: This description will show up in the meta tag, for SEO.
 author: "Author Name"
 categories: []
 tags: []
-related_posts: []
 banner:
     image: "/assets/img/sky.jpg"
+hidden:
+    - related_posts
 ---
 
 Beginner's Guide to Mountain Biking: From Trails to Techniques
